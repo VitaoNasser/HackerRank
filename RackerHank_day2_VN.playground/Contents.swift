@@ -14,5 +14,4 @@ func solve(meal_cost: Double, tip_percent: Int, tax_percent: Int) -> Void {
 }
 
 solve(meal_cost: 300.7, tip_percent: 10, tax_percent: 20)
-
 solve(meal_cost: 300.1, tip_percent: 10, tax_percent: 20)
